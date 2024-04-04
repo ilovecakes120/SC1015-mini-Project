@@ -1,1 +1,21 @@
 
+import pandas as pd
+
+# List of columns you want to read
+desired_columns = [
+    'qty_dot_url', 'qty_hyphen_url', 'qty_underline_url', 'qty_slash_url', 'qty_percent_url',
+    'qty_dot_domain', 'qty_hyphen_domain', 'qty_underline_domain', 'qty_slash_domain', 'qty_percent_domain',
+    'qty_dot_directory', 'qty_hyphen_directory', 'qty_underline_directory', 'qty_slash_directory', 'qty_percent_directory',
+    'qty_dot_file', 'qty_hyphen_file', 'qty_underline_file', 'qty_slash_file', 'qty_percent_file',
+    'qty_dot_parameters', 'qty_hyphen_parameters', 'qty_underline_parameters', 'qty_slash_parameters', 'qty_percent_parameters',
+    'time_domain_activation', 'time_domain_expiration', 'tls_ssl_certificate', 'asn_ip', 'phishing'
+]
+
+# Read only the desired columns
+df = pd.read_csv('dataset.csv', usecols=desired_columns)
+
+# Remove rows containing -1 in any column
+df = df[df != -1].dropna()
+
+# Reset the index after removing rows
+df.reset_index(drop=True, inplace=True)
