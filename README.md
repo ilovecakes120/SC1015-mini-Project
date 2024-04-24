@@ -87,18 +87,18 @@ The heatmap effectively communicates the strength and direction of relationships
 # 4)Machine learning models
 - Support vector machine
 
-the next model we used is the support vector machine model.
-in our output we printed out the top 5 variable. the confusionmatrix and the classification report consisitng of the same metrics to evaluate the model.
-The accuracy of SVM model is 93% which is similar to the 96% of the logistics regression model
+The first model we used is the support vector machine model.
+in our output we printed out the top 5 variable. the confusion matrix and the classification report using metrics such as precision, recall, f1-score, and support.
+The accuracy of SVM model is 93%.
 in the barchat we can see that coughing is the most fluential factor in predicitng lung cancer using SVM follow by alcohol consumption,peer pressure fatigue and allergy.
 
 ![image](https://github.com/ilovecakes120/SC1015-mini-Project/assets/165972972/024851d1-a1b3-415e-9a37-6177ed5a77dc)
 
 
 - Logistic Regression
-THe first model we did is logistic regression as the nature of 
+THe second model we did is logistic regression as the nature of 
 the dataset consists of categoerical values.This is the result of the logistic regression model where it has
-a accuracy of 96% and the model is evaluated in the classificationreport using metrics such as precision, recall, f1-score, and support
+a accuracy of 96% and the model is evaluated in the classification report using metrics such as precision, recall, f1-score, and support.
 Below we have printed out the top 5 variables use by the model to predict lung cancer
 In the barchat here, we can see that alcohol consuming is themost influential factor follow by allergy fatigue anxiety and
 swallowing difficulty as the higher the coefficient value the more influence it has
