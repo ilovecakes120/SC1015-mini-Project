@@ -15,9 +15,10 @@ Group : 6
 - <https://www.kaggle.com/code/sandragracenelson/lung-cancer-prediction>
 
 ### Table of Contents:
-1. [Problem Statement](#1-Problem-Statement)
-2. [Data Cleaning](#2-Data-Cleaning)
-3. [Exploratory Data Analysis](#3-Exploratory-Data-Analysis)
+1. [Hypothetical Variables Chosen](#1-Hypothetical Variables Chosen)
+1. [Problem Statement](#2-Problem-Statement)
+2. [Data Cleaning](#3-Data-Cleaning)
+3. [Exploratory Data Analysis](#4-Exploratory-Data-Analysis)
 4. [Machine Learning Models](#5-Machine-Learning-Models)
 5. [Conclusion](#5-Conclusion)
 6. [References](#6-References)
@@ -26,16 +27,16 @@ Group : 6
 
 Chosen Variables and insights to choosing them¶
 Smoking
-Smoking is the most well-documented and significant risk factor for lung cancer. It is responsible and a key factor of lung cancer cases. The carcinogens in tobacco smoke damage the cells lining the lungs, and over time, the damage can cause cells to act abnormally and develop into cancer.
+is the most well-documented and significant risk factor for lung cancer. It is responsible and a key factor of lung cancer cases. The carcinogens in tobacco smoke damage the cells lining the lungs, and over time, the damage can cause cells to act abnormally and develop into cancer.
 
 Alcohol Consumption (consuming)
 Excessive alcohol consumption can lead to behaviors and physiological changes that indirectly increase lung cancer risk. For example, heavy drinkers might also be smokers, and alcohol can impair the body's ability to metabolize and clear carcinogens. Hence, we have chosen alcohol due to its potential relation with smoking.
 
 Fatigue
-Fatigue in the context of lung cancer could be a symptom reflecting the body’s response to the developing disease. It may also signal other underlying health problems that could be contributing factors, such as sleep apnea or poor oxygenation.
+in the context of lung cancer could be a symptom reflecting the body’s response to the developing disease. It may also signal other underlying health problems that could be contributing factors, such as sleep apnea or poor oxygenation.
 
 Chronic Disease
-Chronic Diseases might play a big key role in prediction due to its common risk factors it has with lung cancer such as smoking. These conditions may exacerbate the risk of developing lung cancer or complicate its management.
+might play a big key role in prediction due to its common risk factors it has with lung cancer such as smoking. These conditions may exacerbate the risk of developing lung cancer or complicate its management.
 
 Coughing
 Chronic coughing is a common symptom of lung cancer, often caused by the irritation of air passages or even the presence of a tumor. Studying the patterns and severity of coughing can provide early diagnostic clues.
