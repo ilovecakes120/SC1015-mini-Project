@@ -28,7 +28,7 @@ The project aims to develop a machine learning model to identify the key variabl
 # 2)Data cleaning
 - Remove NULL values 
 - Remove duplicates 
-- Replace numerical value with the corresponding category label
+- Replace numerical value with the corresponding category label (1 and 2 with "No" and "Yes")
 
 # 3)Exploratory Data Analysis
 
@@ -37,7 +37,9 @@ The project aims to develop a machine learning model to identify the key variabl
 - Logistic Regression 
   
 # 5)Conclusion
+Using what we have learnt from out insights and machine learning models, we can conclude that smoking and alcohol consumption are one of the most influential variables affecting lung cancer. Based on the Machine Learning models, alcohol consumption was shown to be the top variable for logistic regression and second most influential variable in SVM. Secondly, from the insights we can see that more than 50% of smokers had lung cancer in our dataset. Lastly, from both our insights and machine learning models we can see that fatigue and coughing symptoms emerge as top variables in lung cancer cases. Thus, to have early detection of lung cancer, we recommend that individuals facing fatigue/coughing symptoms for a prolonged period to go for a hospital checkup. To reduce the lung cancer, individuals reduce their alcohol consumption whenever possible and stop smoking.
 
 # 6)References
 - https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 - https://scikit-learn.org/stable/modules/svm.html
+- https://www.kaggle.com/code/sandragracenelson/lung-cancer-prediction
