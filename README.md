@@ -25,21 +25,21 @@ Group : 6
 
 # Hypothetical Variables Chosen
 
-Chosen Variables and insights to choosing them¶\
-Smoking\
-is the most well-documented and significant risk factor for lung cancer. It is responsible and a key factor of lung cancer cases. The carcinogens in tobacco smoke damage the cells lining the lungs, and over time, the damage can cause cells to act abnormally and develop into cancer.\
+Chosen Variables and insights to choosing them¶ \
+Smoking \
+is the most well-documented and significant risk factor for lung cancer. It is responsible and a key factor of lung cancer cases. The carcinogens in tobacco smoke damage the cells lining the lungs, and over time, the damage can cause cells to act abnormally and develop into cancer. \
 
-Alcohol Consumption (consuming)\
-Excessive alcohol consumption can lead to behaviors and physiological changes that indirectly increase lung cancer risk. For example, heavy drinkers might also be smokers, and alcohol can impair the body's ability to metabolize and clear carcinogens. Hence, we have chosen alcohol due to its potential relation with smoking.\
+Alcohol Consumption (consuming) \
+Excessive alcohol consumption can lead to behaviors and physiological changes that indirectly increase lung cancer risk. For example, heavy drinkers might also be smokers, and alcohol can impair the body's ability to metabolize and clear carcinogens. Hence, we have chosen alcohol due to its potential relation with smoking. \
 
-Fatigue\
+Fatigue \
 in the context of lung cancer could be a symptom reflecting the body’s response to the developing disease. It may also signal other underlying health problems that could be contributing factors, such as sleep apnea or poor oxygenation.\
 
-Chronic Disease\
-might play a big key role in prediction due to its common risk factors it has with lung cancer such as smoking. These conditions may exacerbate the risk of developing lung cancer or complicate its management.\
+Chronic Disease \
+might play a big key role in prediction due to its common risk factors it has with lung cancer such as smoking. These conditions may exacerbate the risk of developing lung cancer or complicate its management. \
 
-Coughing
-Chronic coughing is a common symptom of lung cancer, often caused by the irritation of air passages or even the presence of a tumor. Studying the patterns and severity of coughing can provide early diagnostic clues.
+Coughing \
+Chronic coughing is a common symptom of lung cancer, often caused by the irritation of air passages or even the presence of a tumor. Studying the patterns and severity of coughing can provide early diagnostic clues. \
 
 # 1)Problem Statement
 The project aims to develop a machine learning model to identify the key variables influencing lung cancer prevalence in individuals. By analyzing various demographic, environmental, and behavioral factors, the model seeks to discern patterns and predictors that are significantly associated with the incidence of lung cancer. 
