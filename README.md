@@ -40,4 +40,5 @@ We used SVM and logistic regression on our dataset as the data consist of catego
 # 5)Conclusion
 
 # 6)References
--
+- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+- https://scikit-learn.org/stable/modules/svm.html
