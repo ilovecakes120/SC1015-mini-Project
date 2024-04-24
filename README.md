@@ -25,7 +25,7 @@ Group : 6
 
 # Hypothetical Variables Chosen
 
-Chosen Variables and insights to choosing them¶ \
+Chosen Variables and insights to choosing them¶
 Smoking \
 is the most well-documented and significant risk factor for lung cancer. It is responsible and a key factor of lung cancer cases. The carcinogens in tobacco smoke damage the cells lining the lungs, and over time, the damage can cause cells to act abnormally and develop into cancer. \
 
