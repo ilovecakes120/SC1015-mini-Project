@@ -34,7 +34,7 @@ The project aims to develop a machine learning model to identify the key variabl
 
 # 4)Machine learning models
 - Support vector machine
-- Logistic Regression
+- Logistic Regression \
 We used SVM and logistic regression on our dataset as the data consist of categoerical variables only
   
 # 5)Conclusion
