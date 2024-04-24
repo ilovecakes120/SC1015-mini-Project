@@ -32,6 +32,14 @@ The project aims to develop a machine learning model to identify the key variabl
 
 # 3)Exploratory Data Analysis
 
+- Positive Cases Distribution by Age and splitting by gender
+Lung cancer risk increases with age due to prolonged exposure and effects of cellular damage over time. Analyzing how this risk manifests across different age groups can help in identifying key age ranges that are particularly vulnerable.We split the Distributions by Age, split into both genders. Men and women may have different biological susceptibilities to lung cancer. For instance, some studies suggest that women might be more susceptible to the carcinogenic effects of certain types of tobacco and other lung carcinogens than men, even if exposed to lower levels. Gender differences in the presentation of lung cancer symptoms might require different approaches in screening and diagnostics to improve early detection rates.
+
+![image](https://github.com/ilovecakes120/SC1015-mini-Project/assets/165972972/8894aab8-df88-4ae8-9f58-708658a869e0)
+
+
+
+
 # 4)Machine learning models
 - Support vector machine
 - Logistic Regression 
