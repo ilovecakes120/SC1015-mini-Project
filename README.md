@@ -1,5 +1,10 @@
 # SC1015 PREDICTIVE ANALYSIS OF LUNG CANCER RISK FACTORS
 
+School of Computer Science and Engineering
+Nanyang Technological University \
+Lab: FCE2 \
+Group : 6 
+
 # Contributors
 
 - Ng Hock Wee Jeremy
