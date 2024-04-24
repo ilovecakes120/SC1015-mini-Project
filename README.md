@@ -92,7 +92,6 @@ in our output we printed out the top 5 variable. the confusion matrix and the cl
 The accuracy of SVM model is 93%.
 in the barchat we can see that coughing is the most fluential factor in predicitng lung cancer using SVM follow by alcohol consumption,peer pressure fatigue and allergy.
 
-![image](https://github.com/ilovecakes120/SC1015-mini-Project/assets/165972972/024851d1-a1b3-415e-9a37-6177ed5a77dc)
 
 
 - Logistic Regression
@@ -103,7 +102,6 @@ Below we have printed out the top 5 variables use by the model to predict lung c
 In the barchat here, we can see that alcohol consuming is themost influential factor follow by allergy fatigue anxiety and
 swallowing difficulty as the higher the coefficient value the more influence it has
 
-![image](https://github.com/ilovecakes120/SC1015-mini-Project/assets/165972972/62bb795a-f2bd-4375-95a2-ef4ce33fe5cc)
 
   
 # 5)Conclusion
@@ -113,3 +111,5 @@ Using what we have learnt from out insights and machine learning models, we can 
 - https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 - https://scikit-learn.org/stable/modules/svm.html
 - https://www.kaggle.com/code/sandragracenelson/lung-cancer-prediction
+- https://www.cdc.gov/cancer/lung/basic_info/risk_factors.htm#:~:text=Tobacco%20smoke%20is%20a%20toxic,people%20who%20do%20not%20smoke
+- https://www.cancer.org/cancer/types/lung-cancer/causes-risks-prevention/risk-factors.html
