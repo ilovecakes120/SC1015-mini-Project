@@ -3,7 +3,7 @@
 School of Computer Science and Engineering
 Nanyang Technological University \
 Lab: FCE2 \
-Group : 6 
+Group : 6
 
 # Contributors
 
