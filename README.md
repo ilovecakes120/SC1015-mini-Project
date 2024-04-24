@@ -1,4 +1,4 @@
-![image](https://github.com/ilovecakes120/SC1015-mini-Project/assets/165972972/4a4ca39c-52ff-4e7c-99b4-8f997d01430f)# SC1015 PREDICTIVE ANALYSIS OF LUNG CANCER RISK FACTORS
+# SC1015 PREDICTIVE ANALYSIS OF LUNG CANCER RISK FACTORS
 
 School of Computer Science and Engineering
 Nanyang Technological University \
